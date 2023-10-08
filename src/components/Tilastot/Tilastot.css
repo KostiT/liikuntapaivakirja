@@ -1,0 +1,18 @@
+.tilastot {
+    padding: 2em;
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+    box-sizing: border-box;
+}
+
+.tilastot_graafi {
+    position: relative;
+    height: 20em;
+    display: table-cell;
+}
+
+.tilastot h3 {
+    
+    margin-bottom: 0.5em;
+}

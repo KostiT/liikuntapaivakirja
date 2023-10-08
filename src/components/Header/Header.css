@@ -1,0 +1,14 @@
+.header {
+    background-color: #0285EE;
+    display: flex;
+    justify-content: center;
+    padding: 0.5em;
+    max-height: 3em;
+    min-height: 3em;
+    color: #fff;
+    align-items: center;  
+  }
+  
+  .header h1 {
+    font-size: 1.5em;
+  }

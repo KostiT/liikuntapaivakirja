@@ -1,0 +1,17 @@
+.content {
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;  
+    position: relative;
+}
+  
+::-webkit-scrollbar {
+    width: 0.5em;
+}
+  
+::-webkit-scrollbar-track {
+    background-color: rgba(0, 0, 0, 0.0);
+}
+  
+::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.1);
+}
